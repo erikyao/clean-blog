@@ -1,8 +1,8 @@
 ---
 name : clean-blog
 website : http://twitter.github.com/bootstrap
-git_url : git://github.com/jekyllbootstrap/theme-twitter.git
-source_url : https://github.com/jekyllbootstrap/theme-twitter
+git_url : https://github.com/erikyao/theme-clean-blog.git
+source_url : https://github.com/erikyao/theme-clean-blog
 author:
   name : "Erik Yao"
   website : https://github.com/erikyao
