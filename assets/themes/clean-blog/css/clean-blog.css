@@ -4,6 +4,10 @@
  * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+/*!
+ * Modified by Erik Yao, 2016/05/09
+ */
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
@@ -30,11 +34,29 @@ a {
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #3A8FB7;
 }
 a img:hover,
 a img:focus {
   cursor: zoom-in;
+}
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+li:not(.previous):not(.next) a {
+  color: #005CAF;
+}
+h1 a:hover,a:focus,
+h2 a:hover,a:focus,
+h3 a:hover,a:focus,
+h4 a:hover,a:focus,
+h5 a:hover,a:focus,
+h6 a:hover,a:focus,
+li:not(.previous):not(.next) a:hover,a:focus {
+  color: #26453D;
 }
 blockquote {
   color: #808080;
